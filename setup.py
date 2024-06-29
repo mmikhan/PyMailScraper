@@ -14,7 +14,7 @@ setup(
     description="A Python tool for scraping email addresses from websites",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/mmikhan/PyMailScraper",
+    url="https://github.com/mmikhan/pymailscraper",
     packages=find_packages(exclude=["tests*"]),
     install_requires=[
         "requests",
